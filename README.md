@@ -1,4 +1,4 @@
-### Hi there, I am msnh2012⚡.
+### Hi there, I am Shen-Jingbo⚡.
 
 - A robot engineer of [Institute of Automation，Chinese Academy of Sciences](http://www.ia.cas.cn/)
   <a>
@@ -20,11 +20,11 @@
 
 ### Channel
 
-[zhihu](https://www.zhihu.com/people/mu-shi-ning-hun-59)
+[zhihu]([https://www.zhihu.com/people/mu-shi-ning-hun-59](https://www.zhihu.com/people/black-63-82))
 
 ### Video Channel
 
-[bilibili](https://space.bilibili.com/5698637/channel/detail?cid=184438&ctype=0)
+[bilibili]([https://space.bilibili.com/5698637/channel/detail?cid=184438&ctype=0](https://space.bilibili.com/645716260?spm_id_from=333.1007.0.0))
 
 ### Pics
 
