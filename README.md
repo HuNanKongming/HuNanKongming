@@ -20,7 +20,7 @@
 
 ### Channel
 
-[zhihu]([https://www.zhihu.com/people/mu-shi-ning-hun-59](https://www.zhihu.com/people/black-63-82))
+[zhihu](https://www.zhihu.com/people/black-63-82)
 
 ### Video Channel
 
