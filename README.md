@@ -1,15 +1,5 @@
 ### Hi there, I am Shen-Jingbo⚡.
 
-- A robot engineer of [Institute of Automation，Chinese Academy of Sciences](http://www.ia.cas.cn/)
-  <a>
-  <img align="left" src=https://github-readme-stats.vercel.app/api?username=HuNanKongming&show_icons=true&count_private=true&hide=prs&theme=default_repocard />
-  <a/>
-
-<a>
-<img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuNanKongming&hide=html" />
-<a/>
-
-
 ### Projects
 
 ### Channel
