@@ -1,4 +1,4 @@
-### Hi there, I am Shen-Jingbo⚡.
+### Hi there, I am Bo⚡.
 
 ### Projects
 
